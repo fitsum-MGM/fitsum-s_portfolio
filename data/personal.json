@@ -1,0 +1,112 @@
+{
+  "personal": {
+    "firstName": "Fitsum",
+    "lastName": "Marye",
+    "fullName": "Fitsum Marye",
+    "title": "Full Stack Developer",
+    "jobTitle": "Full Stack Developer",
+    "email": "maryefitsum@gmail.com",
+    "greeting": "Hi, my name is",
+    "description": {
+      "intro": "I build web apps and backend systems with",
+      "main": "that make work and daily life simpler",
+      "highlightedTech": {
+        "primary": "React & Next.js",
+        "secondary": "Node.js"
+      }
+    }
+  },
+  "about": {
+    "paragraphs": [
+      "I'm a full stack developer in Addis Ababa and a Computer Science graduate of Bahir Dar University (2026). Since September 2026 I've worked as a Junior Full Stack Developer at Mereb Technologies.",
+      "At Mereb I build backend APIs with Node.js and Docker, a resume parsing service for the hiring workflow, and Next.js web apps. I use JWT authentication, role-based access control, Jest tests and GitHub Actions pipelines.",
+      "Outside work I build products for real problems: a procurement platform for Ethiopian suppliers, a real-time collaborative workspace, an online store, and spending controls for AI agents on Solana. One day I want to launch my own startup."
+    ],
+    "stats": [
+      {
+        "icon": "Smartphone",
+        "label": "Frontend",
+        "sublabel": "React, Next.js, Tailwind"
+      },
+      {
+        "icon": "Server",
+        "label": "Backend",
+        "sublabel": "Node.js, Express, FastAPI"
+      },
+      {
+        "icon": "Code",
+        "label": "Data & DevOps",
+        "sublabel": "PostgreSQL, MongoDB, Docker"
+      },
+      {
+        "icon": "Zap",
+        "label": "Blockchain",
+        "sublabel": "Solana, Anchor, Rust"
+      }
+    ]
+  },
+  "projects": {
+    "heading": "Featured Projects",
+    "subheading": "Products I've built across the full stack"
+  },
+  "contact": {
+    "heading": "Get In Touch",
+    "subheading": "Have a project, idea, or opportunity? Feel free to reach out.",
+    "email": "maryefitsum@gmail.com",
+    "emailButtonText": "Email Me",
+    "socialLinks": [
+      {
+        "name": "LinkedIn",
+        "icon": "Linkedin",
+        "url": "https://www.linkedin.com/in/fitsum-marye-a917b73ba/",
+        "color": "hover:text-blue-500"
+      },
+      {
+        "name": "GitHub",
+        "icon": "Github",
+        "url": "https://github.com/fitsum-MGM",
+        "color": "hover:text-purple-500"
+      }
+    ]
+  },
+  "navigation": {
+    "items": [
+      "Home",
+      "About",
+      "Projects",
+      "Contact"
+    ]
+  },
+  "cta": {
+    "primary": {
+      "text": "View My Work",
+      "href": "#projects"
+    },
+    "secondary": {
+      "text": "Get In Touch",
+      "href": "#contact"
+    }
+  },
+  "metadata": {
+    "title": "Fitsum Marye | Full Stack Developer",
+    "description": "Full stack developer in Addis Ababa building web apps and backend systems with React, Next.js, Node.js and Solana.",
+    "keywords": [
+      "Fitsum Marye",
+      "Full Stack Developer",
+      "React",
+      "Next.js",
+      "Node.js",
+      "Solana",
+      "Addis Ababa"
+    ],
+    "openGraph": {
+      "title": "Fitsum Marye | Portfolio",
+      "description": "Full stack developer portfolio",
+      "type": "website"
+    }
+  },
+  "footer": {
+    "copyrightText": "All rights reserved.",
+    "showScrollToTop": true
+  }
+}
