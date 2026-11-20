@@ -19,7 +19,7 @@
   "about": {
     "paragraphs": [
       "I'm a full stack developer in Addis Ababa and a Computer Science graduate of Bahir Dar University (2026). Since September 2026 I've worked as a Junior Full Stack Developer at Mereb Technologies.",
-      "At Mereb I build backend APIs with Node.js and Docker, a resume parsing service for the hiring workflow, and Next.js web apps. I use JWT authentication, role-based access control, Jest tests and GitHub Actions pipelines.",
+      "I focus on designing and developing scalable web applications and robust backend architectures. I enjoy working across the entire stack—building responsive user interfaces, designing efficient APIs and databases, ensuring high security standards, and streamlining CI/CD workflows.",
       "Outside work I build products for real problems: a procurement platform for Ethiopian suppliers, a real-time collaborative workspace, an online store, and spending controls for AI agents on Solana. One day I want to launch my own startup."
     ],
     "stats": [
